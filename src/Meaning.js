@@ -11,10 +11,6 @@ export default function Meaning(props) {
         return (
           <div key={index} className="eachDefintion">
             <div className="definition">{definition.definition}</div>
-
-            <Examples examples={definition.example} />
-
-            <Synonyms synonyms={definition.synonyms} />
           </div>
         );
       })}
