@@ -13,7 +13,7 @@ export default function App() {
         </main>
         <footer className="App-footer">
           <small>
-            Coded by Sophie Dabirmanesh and open source on{" "}
+            Open source on{" "}
             <a
               href="https://github.com/sophiedabi/react-dictionary-project"
               target="_blank"
